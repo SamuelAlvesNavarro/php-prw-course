@@ -1,4 +1,4 @@
 # My-evolution-in-PHP
 
 
-The above file contains the files of all my first PHP classes
+The foulders above contain the files of all my first PHP studies
