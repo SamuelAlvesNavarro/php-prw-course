@@ -1,4 +1,5 @@
 <?php
+
 while(($n = readline()) !== false){
   
     for($i = 0; $i < $n; $i++){
