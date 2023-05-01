@@ -46,7 +46,7 @@
 </head>
 <body>
     <p class="sla">
-        CU
+        <?php echo "$nome"; ?>
     </p>
 </body>
 </html>
